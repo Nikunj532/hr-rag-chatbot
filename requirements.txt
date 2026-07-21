@@ -1,0 +1,41 @@
+fastapi
+uvicorn[standard]
+python-multipart
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-huggingface
+sentence-transformers
+langchain-groq
+langchain-chroma
+langchain-community
+langchain-text-splitters
+langgraph
+
+# Vector DB
+chromadb
+
+# PDF parsing
+pdfplumber
+python-docx
+pymupdf
+
+# Database
+psycopg2-binary
+sqlalchemy
+alembic
+
+# Utilities
+python-dotenv
+pydantic
+pydantic-settings
+httpx
+aiofiles
+tenacity
+
+# Frontend
+streamlit
+httpx
+python-dotenv
+requests
